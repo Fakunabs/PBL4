@@ -1,0 +1,9 @@
+D:\pbl4\Thinh\Shared\bin\Debug\Shared.dll.config
+D:\pbl4\Thinh\Shared\bin\Debug\Shared.dll
+D:\pbl4\Thinh\Shared\bin\Debug\Shared.pdb
+D:\pbl4\Thinh\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+D:\pbl4\Thinh\Shared\obj\Debug\Shared.Properties.Resources.resources
+D:\pbl4\Thinh\Shared\obj\Debug\Shared.csproj.GenerateResource.cache
+D:\pbl4\Thinh\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+D:\pbl4\Thinh\Shared\obj\Debug\Shared.dll
+D:\pbl4\Thinh\Shared\obj\Debug\Shared.pdb
