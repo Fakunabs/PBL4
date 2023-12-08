@@ -1,0 +1,26 @@
+C:\StopTheSpying\RemoteClient\bin\Release\RemoteClient.exe
+C:\StopTheSpying\RemoteClient\bin\Release\RemoteClient.pdb
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.Properties.Resources.resources
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.csproj.GenerateResource.Cache
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.exe
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.pdb
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.FrmMain.resources
+C:\StopTheSpying\RemoteClient\obj\Release\RemoteClient.FrmHelp.resources
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\bin\Release\RemoteClient.exe
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\bin\Release\RemoteClient.pdb
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.AssemblyReference.cache
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.FrmMain.resources
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.Properties.Resources.resources
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.GenerateResource.cache
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.CoreCompileInputs.cache
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.exe
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.pdb
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\bin\Release\RemoteClient.exe
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\bin\Release\RemoteClient.pdb
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.AssemblyReference.cache
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.FrmMain.resources
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.Properties.Resources.resources
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.GenerateResource.cache
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.csproj.CoreCompileInputs.cache
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.exe
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteClient\obj\Release\RemoteClient.pdb

@@ -1,0 +1,52 @@
+C:\RDT\RemoteServer - Copy\bin\Debug\RemoteServer.exe.manifest
+C:\RDT\RemoteServer - Copy\bin\Debug\RemoteServer.application
+C:\RDT\RemoteServer - Copy\bin\Debug\RemoteServer.exe
+C:\RDT\RemoteServer - Copy\bin\Debug\RemoteServer.pdb
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.Debuggy.resources
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.Form1.resources
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.Form2.resources
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.Form3.resources
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.exe.manifest
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.application
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.exe
+C:\RDT\RemoteServer - Copy\obj\Debug\RemoteServer.pdb
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.exe
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.pdb
+C:\Share\RemoteServer - Copy\bin\Debug\RemoteServer.exe.manifest
+C:\Share\RemoteServer - Copy\bin\Debug\RemoteServer.application
+C:\Share\RemoteServer - Copy\bin\Debug\RemoteServer.exe
+C:\Share\RemoteServer - Copy\bin\Debug\RemoteServer.pdb
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.Debuggy.resources
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.Form1.resources
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.Form2.resources
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.Form3.resources
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.exe.manifest
+C:\Share\RemoteServer - Copy\obj\Debug\RemoteServer.application
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.exe
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.pdb
+C:\RemoteServer - Copy\bin\Debug\RemoteServer.exe.manifest
+C:\RemoteServer - Copy\bin\Debug\RemoteServer.application
+C:\RemoteServer - Copy\bin\Debug\RemoteServer.exe
+C:\RemoteServer - Copy\bin\Debug\RemoteServer.pdb
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.exe.manifest
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.application
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.FrmService.resources
+C:\RemoteServer - Copy\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.exe
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\StopTheSpying\RemoteServer\bin\Debug\RemoteServer.exe.manifest
+C:\StopTheSpying\RemoteServer\bin\Debug\RemoteServer.application
+C:\StopTheSpying\RemoteServer\bin\Debug\RemoteServer.exe
+C:\StopTheSpying\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.FrmService.resources
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.exe.manifest
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.application
+C:\StopTheSpying\RemoteServer\obj\Debug\RemoteServer.FrmHelp.resources

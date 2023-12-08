@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteServer">
+</Property><Property Name="Solution File" Value="C:\RDT\RemoteServer - Copy\RemoteServer.sln">
+</Property><Property Name="User Options File" Value="C:\RDT\RemoteServer - Copy\RemoteServer.suo">
+</Property><Property Name="Date" Value="17 February 2015">
+</Property><Property Name="Time" Value="18:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemoteServer.sln" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\RemoteServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteServer.suo" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\RemoteServer.suo">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer.csproj" Description="Project file successfully backed up as C:\RDT\RemoteServer - Copy\Backup\RemoteServer.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer.csproj.user" Description="Project user file successfully backed up as C:\RDT\RemoteServer - Copy\Backup\RemoteServer.csproj.user">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="DebugWindow.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\DebugWindow.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="DebugWindow.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\DebugWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form1.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form1.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form2.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form2.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form3.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form3.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form3.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Program.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Properties\Settings.settings" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer_TemporaryKey.pfx" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\RemoteServer_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="DebugWindow.resx" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\DebugWindow.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form1.resx" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form2.resx" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Form3.resx" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="Properties\Resources.resx" Description="File successfully backed up as C:\RDT\RemoteServer - Copy\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemoteServer" Source="RemoteServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RemoteServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

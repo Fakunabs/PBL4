@@ -1,0 +1,25 @@
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\RemoteClient.Form1.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\RemoteClient\obj\Debug\RemoteClient.Form2.resources
+C:\RDT\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\RDT\RemoteClient\bin\Debug\RemoteClient.exe
+C:\RDT\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\RDT\RemoteClient\obj\Debug\RemoteClient.Form2.resources
+C:\RDT\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+C:\RDT\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+C:\RDT\RemoteClient\obj\Debug\RemoteClient.exe
+C:\RDT\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+C:\StopTheSpying\RemoteClient\obj\Debug\RemoteClient.exe
+C:\StopTheSpying\RemoteClient\obj\Debug\RemoteClient.pdb
+C:\StopTheSpying\RemoteClient\bin\Debug\RemoteClient.exe
+C:\StopTheSpying\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\StopTheSpying\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+C:\StopTheSpying\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+C:\StopTheSpying\RemoteClient\obj\Debug\RemoteClient.FrmHelp.resources
+C:\StopTheSpying\RemoteClient\obj\Debug\RemoteClient.FrmMain.resources

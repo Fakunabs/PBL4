@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteClient">
+</Property><Property Name="Solution File" Value="C:\RDT\RemoteClient\RemoteClient.sln">
+</Property><Property Name="User Options File" Value="C:\RDT\RemoteClient\RemoteClient.suo">
+</Property><Property Name="Date" Value="17 February 2015">
+</Property><Property Name="Time" Value="18:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemoteClient.sln" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\RemoteClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteClient.suo" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\RemoteClient.suo">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="RemoteClient.csproj" Description="Project file successfully backed up as C:\RDT\RemoteClient\Backup\RemoteClient.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Form1.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Form1.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Form2.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Form2.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Program.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Properties\Settings.settings" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Form1.resx" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Form2.resx" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="Properties\Resources.resx" Description="File successfully backed up as C:\RDT\RemoteClient\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="RemoteClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RemoteClient" Source="RemoteClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RemoteClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteClient" Source="RemoteClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

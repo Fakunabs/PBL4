@@ -1,0 +1,53 @@
+C:\RemoteServer - Copy\bin\Release\RemoteServer.exe.manifest
+C:\RemoteServer - Copy\bin\Release\RemoteServer.application
+C:\RemoteServer - Copy\bin\Release\RemoteServer.exe
+C:\RemoteServer - Copy\bin\Release\RemoteServer.pdb
+C:\RemoteServer - Copy\obj\Release\RemoteServer.Debuggy.resources
+C:\RemoteServer - Copy\obj\Release\RemoteServer.Form1.resources
+C:\RemoteServer - Copy\obj\Release\RemoteServer.Form2.resources
+C:\RemoteServer - Copy\obj\Release\RemoteServer.Form3.resources
+C:\RemoteServer - Copy\obj\Release\RemoteServer.Properties.Resources.resources
+C:\RemoteServer - Copy\obj\Release\RemoteServer.csproj.GenerateResource.Cache
+C:\RemoteServer - Copy\obj\Release\RemoteServer.exe.manifest
+C:\RemoteServer - Copy\obj\Release\RemoteServer.application
+C:\RemoteServer - Copy\obj\Release\RemoteServer.exe
+C:\RemoteServer - Copy\obj\Release\RemoteServer.pdb
+C:\RemoteServer - Copy\obj\Release\RemoteServer.csprojResolveAssemblyReference.cache
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.exe
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.pdb
+C:\StopTheSpying\RemoteServer\bin\Release\RemoteServer.exe.manifest
+C:\StopTheSpying\RemoteServer\bin\Release\RemoteServer.application
+C:\StopTheSpying\RemoteServer\bin\Release\RemoteServer.exe
+C:\StopTheSpying\RemoteServer\bin\Release\RemoteServer.pdb
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.FrmService.resources
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.Properties.Resources.resources
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.csproj.GenerateResource.Cache
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.exe.manifest
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.application
+C:\StopTheSpying\RemoteServer\obj\Release\RemoteServer.FrmHelp.resources
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.csproj.AssemblyReference.cache
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.FrmService.resources
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.Properties.Resources.resources
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.csproj.GenerateResource.cache
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.exe
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.pdb
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.exe.manifest
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.application
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.exe
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.pdb
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.csproj.CoreCompileInputs.cache
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.exe.manifest
+C:\Users\Ydeer\Downloads\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.application
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.exe.manifest
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.application
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.exe
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\bin\Release\RemoteServer.pdb
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.csproj.AssemblyReference.cache
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.FrmService.resources
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.Properties.Resources.resources
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.csproj.GenerateResource.cache
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.csproj.CoreCompileInputs.cache
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.exe.manifest
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.application
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.exe
+C:\Users\Ydeer\OneDrive - The University of Technology\Desktop\RNCRemoteDesktop\RemoteServer\obj\Release\RemoteServer.pdb
